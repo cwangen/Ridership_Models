@@ -1,0 +1,364 @@
+,row_id,dropoff_stop
+0,1,Ontario
+1,2,Petoskey
+2,3,Crystal
+3,4,Huron
+4,5,Superior
+5,6,Erie
+6,7,Huron
+7,8,Huron
+8,9,Superior
+9,10,Petoskey
+10,11,Ontario
+11,12,Michigan
+12,13,Beach
+13,14,Crystal
+14,15,Ontario
+15,16,Huron
+16,17,Beach
+17,18,St. Claire
+18,19,Crystal
+19,20,Erie
+20,21,Michigan
+21,22,Michigan
+22,23,Beach
+23,24,Michigan
+24,25,St. Claire
+25,26,Erie
+26,27,St. Claire
+27,28,Superior
+28,29,St. Claire
+29,30,Crystal
+30,31,St. Claire
+31,32,Crystal
+32,33,Huron
+33,34,St. Claire
+34,35,Crystal
+35,36,St. Claire
+36,37,St. Claire
+37,38,Superior
+38,39,Huron
+39,40,Huron
+40,41,Erie
+41,42,Michigan
+42,43,Crystal
+43,44,Erie
+44,45,St. Claire
+45,46,Crystal
+46,47,Huron
+47,48,Superior
+48,49,Huron
+49,50,Beach
+50,51,Ontario
+51,52,Beach
+52,53,Beach
+53,54,Huron
+54,55,Ontario
+55,56,Michigan
+56,57,Michigan
+57,58,Ontario
+58,59,Michigan
+59,60,Beach
+60,61,Beach
+61,62,Huron
+62,63,Michigan
+63,64,Huron
+64,65,Michigan
+65,66,St. Claire
+66,67,Erie
+67,68,Superior
+68,69,Crystal
+69,70,Crystal
+70,71,Superior
+71,72,St. Claire
+72,73,Huron
+73,74,St. Claire
+74,75,St. Claire
+75,76,St. Claire
+76,77,Beach
+77,78,St. Claire
+78,79,St. Claire
+79,80,St. Claire
+80,81,Erie
+81,82,St. Claire
+82,83,Crystal
+83,84,Huron
+84,85,Crystal
+85,86,Crystal
+86,87,Huron
+87,88,Crystal
+88,89,Crystal
+89,90,Erie
+90,91,St. Claire
+91,92,Beach
+92,93,Huron
+93,94,Beach
+94,95,Crystal
+95,96,Beach
+96,97,Michigan
+97,98,Crystal
+98,99,Huron
+99,100,St. Claire
+100,101,Huron
+101,102,Huron
+102,103,Beach
+103,104,Beach
+104,105,Beach
+105,106,Huron
+106,107,Michigan
+107,108,Superior
+108,109,Ontario
+109,110,Ontario
+110,111,Crystal
+111,112,Ontario
+112,113,Michigan
+113,114,Michigan
+114,115,St. Claire
+115,116,Crystal
+116,117,Petoskey
+117,118,Erie
+118,119,Petoskey
+119,120,Petoskey
+120,121,St. Claire
+121,122,Crystal
+122,123,Erie
+123,124,Crystal
+124,125,Beach
+125,126,St. Claire
+126,127,St. Claire
+127,128,Petoskey
+128,129,Superior
+129,130,Erie
+130,131,Superior
+131,132,Michigan
+132,133,Huron
+133,134,Crystal
+134,135,Crystal
+135,136,Ontario
+136,137,Huron
+137,138,Crystal
+138,139,Michigan
+139,140,St. Claire
+140,141,St. Claire
+141,142,Michigan
+142,143,Crystal
+143,144,Superior
+144,145,Crystal
+145,146,St. Claire
+146,147,St. Claire
+147,148,St. Claire
+148,149,Superior
+149,150,Erie
+150,151,Michigan
+151,152,Erie
+152,153,St. Claire
+153,154,Huron
+154,155,St. Claire
+155,156,Crystal
+156,157,Huron
+157,158,Crystal
+158,159,Crystal
+159,160,Crystal
+160,161,Superior
+161,162,Michigan
+162,163,Superior
+163,164,Beach
+164,165,Erie
+165,166,Crystal
+166,167,Ontario
+167,168,Ontario
+168,169,Crystal
+169,170,St. Claire
+170,171,Michigan
+171,172,Ontario
+172,173,Crystal
+173,174,Beach
+174,175,Michigan
+175,176,Ontario
+176,177,Superior
+177,178,Superior
+178,179,Huron
+179,180,Crystal
+180,181,Huron
+181,182,Superior
+182,183,Superior
+183,184,Superior
+184,185,Huron
+185,186,Huron
+186,187,Ontario
+187,188,Ontario
+188,189,Crystal
+189,190,Erie
+190,191,Erie
+191,192,Erie
+192,193,St. Claire
+193,194,Erie
+194,195,Erie
+195,196,Huron
+196,197,Beach
+197,198,Erie
+198,199,Ontario
+199,200,Huron
+200,201,Erie
+201,202,Huron
+202,203,St. Claire
+203,204,Beach
+204,205,Ontario
+205,206,Huron
+206,207,Crystal
+207,208,Ontario
+208,209,Beach
+209,210,Superior
+210,211,Huron
+211,212,Huron
+212,213,Huron
+213,214,Huron
+214,215,Michigan
+215,216,Michigan
+216,217,Huron
+217,218,Huron
+218,219,Huron
+219,220,Michigan
+220,221,Michigan
+221,222,Beach
+222,223,Ontario
+223,224,Erie
+224,225,St. Claire
+225,226,Beach
+226,227,Crystal
+227,228,Crystal
+228,229,Beach
+229,230,Beach
+230,231,Crystal
+231,232,Ontario
+232,233,Superior
+233,234,Superior
+234,235,Michigan
+235,236,Michigan
+236,237,Beach
+237,238,Michigan
+238,239,Beach
+239,240,Beach
+240,241,St. Claire
+241,242,Michigan
+242,243,Michigan
+243,244,Michigan
+244,245,Michigan
+245,246,Michigan
+246,247,Michigan
+247,248,Superior
+248,249,Beach
+249,250,Huron
+250,251,Huron
+251,252,Huron
+252,253,Huron
+253,254,Crystal
+254,255,Huron
+255,256,Crystal
+256,257,Huron
+257,258,Beach
+258,259,Ontario
+259,260,Michigan
+260,261,Michigan
+261,262,Erie
+262,263,Crystal
+263,264,Beach
+264,265,Beach
+265,266,Erie
+266,267,Beach
+267,268,Superior
+268,269,Beach
+269,270,St. Claire
+270,271,Petoskey
+271,272,Michigan
+272,273,Beach
+273,274,Michigan
+274,275,Michigan
+275,276,St. Claire
+276,277,Beach
+277,278,Beach
+278,279,Michigan
+279,280,Beach
+280,281,Huron
+281,282,Huron
+282,283,Beach
+283,284,Beach
+284,285,Huron
+285,286,Huron
+286,287,Beach
+287,288,Beach
+288,289,Superior
+289,290,Michigan
+290,291,Huron
+291,292,Huron
+292,293,Superior
+293,294,St. Claire
+294,295,St. Claire
+295,296,St. Claire
+296,297,Huron
+297,298,St. Claire
+298,299,St. Claire
+299,300,Michigan
+300,301,Michigan
+301,302,Beach
+302,303,St. Claire
+303,304,St. Claire
+304,305,Beach
+305,306,Beach
+306,307,Beach
+307,308,Beach
+308,309,Beach
+309,310,Beach
+310,311,Beach
+311,312,Beach
+312,313,Ontario
+313,314,Beach
+314,315,Beach
+315,316,Huron
+316,317,Huron
+317,318,Superior
+318,319,Crystal
+319,320,Beach
+320,321,Huron
+321,322,Michigan
+322,323,Huron
+323,324,Michigan
+324,325,Huron
+325,326,Superior
+326,327,Michigan
+327,328,Beach
+328,329,Beach
+329,330,Michigan
+330,331,Ontario
+331,332,Huron
+332,333,Michigan
+333,334,Michigan
+334,335,Ontario
+335,336,Beach
+336,337,Beach
+337,338,Crystal
+338,339,Ontario
+339,340,Erie
+340,341,Beach
+341,342,Crystal
+342,343,Crystal
+343,344,Michigan
+344,345,Huron
+345,346,Beach
+346,347,Ontario
+347,348,Huron
+348,349,Huron
+349,350,Michigan
+350,351,Petoskey
+351,352,Beach
+352,353,Huron
+353,354,Crystal
+354,355,Beach
+355,356,Beach
+356,357,Superior
+357,358,Michigan
+358,359,Beach
+359,360,Huron
+360,361,Huron
+361,362,Huron
+362,363,Michigan
